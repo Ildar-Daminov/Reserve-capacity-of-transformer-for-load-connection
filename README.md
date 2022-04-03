@@ -8,3 +8,7 @@ https://github.com/Ildar-Daminov/MATLAB-code-for-CIRED-paper
 or
 
 https://github.com/Ildar-Daminov/Assessment_Dynamic_Thermal_Rating_of_Transformers
+
+or
+
+https://github.com/Ildar-Daminov/Energy-limit-of-power-transformer
