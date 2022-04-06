@@ -1,5 +1,5 @@
 # Application of dynamic transformer ratings to increase the reserve of primary substations for new load interconnection
-<img align="left" alt="Coding" width="60" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/86/2b/34/862b34d7-a946-7cbd-3267-5d0e6fecedae/source/512x512bb.jpg">
+<img align="left" alt="Coding" width="90" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/86/2b/34/862b34d7-a946-7cbd-3267-5d0e6fecedae/source/512x512bb.jpg">
 
   
 This repository shares the MATLAB code and data for the conference paper 📋:\
