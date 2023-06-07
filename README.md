@@ -37,7 +37,7 @@ More details are given inside of functions and script "main.m"
 
 Initial data:
 * Initial_Data - Load profile + ambient temperature profile + time vector 
-* T_history_Tomsk.mat - Historical ambient temperature in Tomsk, Russia (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus))
+* T_history_Tomsk.mat - Historical ambient temperature in Tomsk, Russia ([weather data](https://www.meteoblue.com/en/historyplus) provided by [meteoblue](https://www.meteoblue.com/))
 
 ## How to cite this paper 
 Ildar Daminov, Anton Prokhorov,Tatiana Moiseeva, Marie-Cécile Alvarez-Hérault, Raphaël Caire,"Application of dynamic transformer ratings to increase the reserve of primary substations for new load interconnection"in in CIRED conference, Madrid, Spain, 2019.
